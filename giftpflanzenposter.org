@@ -9,8 +9,8 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 ** Giftpflanzenposter.de
 ** Das-Giftpflanzenposter.de
 * TODO Webseite erstellen
-* TODO Github
-** README schreiben
+* Github
+** TODO README schreiben
 *** Abhängigkeiten
 **** LaTeX
 **** a0poster
@@ -33,6 +33,6 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 **** Violett unterlegen
 *** TODO Giftig Pflanze
 **** Rot unterlegen
-** TODO Pflanzen auswählen
-** TODO Bilder herunterladen
-** TODO Kurztexte erstellen
+** DONE Pflanzen auswählen
+** DONE Bilder herunterladen
+
