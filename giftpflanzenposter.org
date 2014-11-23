@@ -15,6 +15,9 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 **** LaTeX
 **** a0poster
 *** Anleitungen
+*** Quellen
+**** Bilder
+- https://de.wikipedia.org/wiki/Datei:Alpenveilchen_Messenien.jpg
 ***** Fedora
 ***** Ubuntu
 - sudo apt-get install texlive-latex-extra
@@ -33,4 +36,3 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 ** TODO Pflanzen auswählen
 ** TODO Bilder herunterladen
 ** TODO Kurztexte erstellen
-
