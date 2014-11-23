@@ -17,11 +17,14 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 *** Anleitungen
 ***** Fedora
 ***** Ubuntu
+- sudo apt-get install texlive-latex-extra
+***** Apple
 *** Poster erstellen
 1. latex giftpflanzenposter.tex
 * TODO Poster
 ** TODO NEXT Fontsize stimmen noch nicht
 ** TODO Lizenz auf dem Poster vermerken
+** TODO Haftungsausschluss
 ** TODO Latex Kommandos Vorlagen definieren
 *** TODO Hochgiftige Pflanze
 **** Violett unterlegen
