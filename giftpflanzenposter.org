@@ -1,0 +1,16 @@
+* TODO Domain sichern
+** Giftpflanzenposter.de
+** Das-Giftpflanzenposter.de
+* TODO Webseite erstellen
+* TODO Github
+** README schreiben
+*** Abhängigkeiten
+**** LaTeX
+**** a0poster
+***** Fedora
+***** Ubuntu
+* TODO Poster
+** TODO Fontsize stimmen noch nicht
+** TODO Pflanzen auswählen
+** TODO Bilder herunterladen
+** TODO Kurztexte erstellen
