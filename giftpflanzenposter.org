@@ -21,7 +21,8 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 1. latex giftpflanzenposter.tex
 * TODO Poster
 ** TODO NEXT Fontsize stimmen noch nicht
-** TODO Latex Kommandos Vorlagen
+** TODO Lizenz auf dem Poster vermerken
+** TODO Latex Kommandos Vorlagen definieren
 *** TODO Hochgiftige Pflanze
 **** Violett unterlegen
 *** TODO Giftig Pflanze
@@ -29,3 +30,4 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 ** TODO Pflanzen auswählen
 ** TODO Bilder herunterladen
 ** TODO Kurztexte erstellen
+
