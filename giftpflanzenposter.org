@@ -9,30 +9,13 @@ Erstellung eines Posters mit allen relevanten Giftpflanzen.
 ** Giftpflanzenposter.de
 ** Das-Giftpflanzenposter.de
 * TODO Webseite erstellen
-* Github
-** TODO README schreiben
-*** Abhängigkeiten
-**** LaTeX
-**** a0poster
-*** Anleitungen
-*** Quellen
-**** Bilder
-- https://de.wikipedia.org/wiki/Datei:Alpenveilchen_Messenien.jpg
-***** Fedora
-***** Ubuntu
-- sudo apt-get install texlive-latex-extra
-***** Apple
-*** Poster erstellen
-1. latex giftpflanzenposter.tex
-* TODO Poster
+* DONE Github
+* Poster
 ** DONE NEXT Fontsize stimmen noch nicht
-** TODO Lizenz auf dem Poster vermerken
-** TODO Haftungsausschluss
-** TODO Latex Kommandos Vorlagen definieren
-*** TODO Hochgiftige Pflanze
-**** Violett unterlegen
-*** TODO Giftig Pflanze
-**** Rot unterlegen
+** DONE Lizenz auf dem Poster vermerken
+** DONE Haftungsausschluss
+** DONE Latex Kommandos Vorlagen definieren
+*** TODO Hochgiftige Pflanzen hervorheben
 ** DONE Pflanzen auswählen
 ** DONE Bilder herunterladen
-
+** TODO Schöneres Design
