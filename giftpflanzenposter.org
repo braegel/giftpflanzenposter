@@ -1,4 +1,4 @@
-* TODO Domain sichern
+* DONE Domain sichern
 ** Giftpflanzenposter.de
 ** Das-Giftpflanzenposter.de
 * TODO Webseite erstellen
@@ -9,6 +9,8 @@
 **** a0poster
 ***** Fedora
 ***** Ubuntu
+*** Poster erstellen
+1. latex giftpflanzenposter.tex
 * TODO Poster
 ** TODO Fontsize stimmen noch nicht
 ** TODO Pflanzen auswählen
