@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Willkommen auf der neuen Webseite"
+date:   2015-05-05 23:45:30
+---
+Die Webseite ist jetzt endlich online. Danke für den Besuch! :)

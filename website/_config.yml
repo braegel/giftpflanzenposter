@@ -1,0 +1,9 @@
+# Site settings
+title: Das Giftpflanzenposter
+email: bernd@giftpflanzenposter.de
+description: Das Giftpflanzenposter ist eine Zusammenstellung giftiger Pflanzen basierend auf der Liste giftiger Pflanzen der Wikipedia.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.giftpflanzenposter.de" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

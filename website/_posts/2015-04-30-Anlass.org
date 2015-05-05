@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Warum dieses Poster?"
+date:   2015-04-30 11:49:44
+---
+Meine fast zweijährige Tochter spielt sehr gerne im Garten und draußen auf Spielplätzen. Dabei ist mir erstaunlich viele giftige Pflanzen in unserer Umgebung aufgefallen, von denen ich bisher nichts ahnte.
+
+Besonders gravierend waren einige extrem giftige Pflanzen in unserem Garten. Zum Beispiel Eisenhut, Eibe und Fingerhut. Um etwas Bewußtsein für diese Gefahren zu schaffen hatte ich die Idee dieses Poster zu entwerfen.
+
+Außerdem wollte ich unbedingt mal ein Poster mit LaTeX gestalten. :)

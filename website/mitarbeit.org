@@ -1,0 +1,9 @@
+---
+layout: page
+title: Mitarbeit
+permalink: /mitarbeit/
+---
+* Mitarbeit
+Fehler und Verbesserungswünsche können einfach hier [[https://github.com/braegel/giftpflanzenposter/issues][im Github als Issue]] gemeldet werden.
+
+Die Quelltexte des Posters und der Webseite gibt es im direkt im [[https://github.com/braegel/giftpflanzenposter][Github-Repository]]. Ich freue mich über Pull Requests.
