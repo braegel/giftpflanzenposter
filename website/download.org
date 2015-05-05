@@ -5,6 +5,6 @@ permalink: /download/
 ---
 
 * Download
-Das jeweils aktuelle Poster lässt sich hier [[https://github.com/braegel/giftpflanzenposter/blob/master/giftpflanzenposter.pdf][herunterladen]]. Die Version wurde DIN A0 optimiert.
+Das jeweils aktuelle Poster lässt sich hier [[https://github.com/braegel/giftpflanzenposter/blob/master/giftpflanzenposter.pdf][herunterladen]]. Die Version wurde für DIN A0 optimiert.
 
 
